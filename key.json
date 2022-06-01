@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cfs-dds-dev-mattressfirm",
+  "private_key_id": "f7ac18aceb6677e5e0ae712a45b746e614c484ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+zJpvKRBk/Mhh\nCEFf0c9qc0FTqFB5Bt3cQkOXDClKpjLute2v83kuxgHMX5IGs9epxPhS0Na2CwV5\nU0WUIoE4+TbbljfQurr378pqHFAgpS5/2mP/7w5x+48HNexRV5rvpfs4QAEqrxCv\n/BK3hFldE+mUErthYFWj39BEHTil9W1It4wYDPhNKND2f0Ki8/U+RLdJbWlSNK7+\nb1B8NgtQiVIDIBm8YS1s1Oqjjp0NwhbsVD/moGGRPYtXP9jWvLdFNvgc8yxd2MsS\nCajlvH8GgMhiAh5URkLfhf+3byTzbf2698/76Ctjq8NZpIKtlq2nNyhpeB5GOJcI\nnaEFJJONAgMBAAECggEAAzGXkC7GyHn2vLEPrxPq/eQp/sV9e1kjE5HEYd3hPw+j\nIJ3I+b4AlEjaNNqQri4KeRwD8Bbw0SFEGTDMpFsjgJmjUm+kRYkqogXQhJAuwy0g\npyE3tUwCGORWE4/SgdYOkN5dYyanHljJ1bhJc+ryN/2iVkkt+8ZKCLExYkJ+9UAs\nAzGmletj4a7IKY++l0Oh4bNSnU056cl+5ZBzAUiuFBFAp1DqpGO56Dyf/joT12SP\nLbnCxSWnxv5Zx23RuZwQ4CBT/I8WgD1DjylExepVtUHz13kpDGiu+DV6HKGUGsP7\nI5j64uMvS51ZskRnQb4ps3KslYnOToZZTWGm/nx/3QKBgQDyB8SzsUfbQ4QITT+U\n+cylbpL0ryYsfeWK0H2NY0U59vFssDz2NBV0gdYIVIsUO5/OgKrbR4q5qrrAt7j8\n8h837W0IfHIUVahd+5xZ/gNy+3EbcOmXjOzowwvkhrrqyNpTwp4c1z7P9oYNnzEa\n7LvMCwegpmorX5+FdyMFPzHX2wKBgQDJz9iG0w5voaRabu33KxXGhAluci1Iuk9y\nzx4zpBlWqNwaZePZQFV0UVFw7a9GM9HfVyPLFu8rIf0gjWsNf9nTTxtaiK8NdEqc\nILwzU0dA4ObQUE7HSaDoBYDMhXy/ke/daJIPlg9LXv6qYfuRQgpiSMmK+rzGQEo7\nZ0AuD1eytwKBgQDeoX6yvBQZARXmfQhLhSxV0EylfqdirbwD4Jxc/j+jfh+9lq+8\n2VQTA4tZxkrYpa/uSDTh2AEnoICA3X7wTdehnmh5Md/ODKz/Jn8/2IRbtCbq0wZM\nPXl+8ktyPuyZI4CRI6hFZ0mECoRs605EMhbdLhgqEmn+08rs/hXcsbCrmQKBgEvq\nWMxW5o5NovK12eRpm7Zigt2+K5S5KRvKF9VbPIDh4nI3s99MmRi5YkZ10sI4yhEW\nyYsjJHL4RS0SpZudZYZcsrB6zEbmYQ6cLc+s2xfnwkvIeenzo4jEUTAeYs/5iN6j\n8JXWYAh9QpU7aJO64QcZ1F7odUyqcIIqE/V/pgC/AoGBALsmHloMV/h+ncNfoM42\njqYYymHnQkeGswRRbYtiodlKZrFq+FLtBxScMxIh57EnwQKbg4K6D+58akpRIjwB\nKoGacV91yItH3yCPW/tnhiIjnorflic3kSdDideBgYmAYc6dZfj4MMk6M7lgn+LL\nMc9w0qb34nAGcxJ91/l8erXr\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage-sa@cfs-dds-dev-mattressfirm.iam.gserviceaccount.com",
+  "client_id": "102464208080550604726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage-sa%40cfs-dds-dev-mattressfirm.iam.gserviceaccount.com"
+}
